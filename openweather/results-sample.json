@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -78.4564, "lat": 35.6507 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 68.07,
+    "feels_like": 68.95,
+    "temp_min": 66.11,
+    "temp_max": 69.87,
+    "pressure": 1020,
+    "humidity": 93
+  },
+  "visibility": 10000,
+  "wind": { "speed": 1.01, "deg": 109, "gust": 7 },
+  "clouds": { "all": 90 },
+  "dt": 1633697392,
+  "sys": {
+    "type": 2,
+    "id": 2041321,
+    "country": "US",
+    "sunrise": 1633691666,
+    "sunset": 1633733271
+  },
+  "timezone": -14400,
+  "id": 4460943,
+  "name": "Clayton",
+  "cod": 200
+}
